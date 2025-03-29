@@ -1,4 +1,3 @@
-import AddButton from "@/components/equipment/details/addButton";
 import EquipmentTable from "@/components/equipment/details/equipmentTable";
 
 export default function Page() {
